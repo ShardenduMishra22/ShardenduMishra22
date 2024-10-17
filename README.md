@@ -70,5 +70,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shardendumishra22&show_icons=true&locale=en" alt="mishrashardendu22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shardendumishra22&" alt="mishrashardendu22" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shardendumishra22" alt="shardendumishra22" /></a> </p>
