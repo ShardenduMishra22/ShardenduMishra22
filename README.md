@@ -29,7 +29,6 @@
 </table>
 
 
-
 - 🔭 I’m currently working on [Cloudinary SaaS Applciation](https://github.com/MishraShardendu22/cloudianry-saas)
 
 - 🌱 I’m currently learning **AI/ML, Web Development, and Cloud Engineering.**
