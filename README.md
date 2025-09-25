@@ -1,4 +1,12 @@
 <div align="center">
+  <p>
+    <a href="https://github.com/MishraShardendu22">
+      <img src="https://img.shields.io/badge/Mishra Shardendu 22-181717?style=for-the-badge&logo=github&logoColor=white" alt="MishraShardendu22"/>
+    </a>
+  </p>
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/main/Gopher.gif" alt="Gopher Mishra" width="200"/>
 </div>
 
