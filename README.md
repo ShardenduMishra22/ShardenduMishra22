@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/ShardenduMishra22">
-      <img src="https://img.shields.io/badge/Mishra Shardendu 22-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShardenduMishra22"/>
+      <img src="https://img.shields.io/badge/ Shardendu Mishra 22-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShardenduMishra22"/>
       <br />
       Moved to https://github.com/ShardenduMishra22
     </a>
