@@ -1,9 +1,9 @@
 <div align="center">
   <p>
-    <a href="https://github.com/MishraShardendu22">
+    <a href="https://github.com/ShardenduMishra22">
       <img src="https://img.shields.io/badge/Mishra Shardendu 22-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShardenduMishra22"/>
       <br />
-      Moved to https://github.com/MishraShardendu22
+      Moved to https://github.com/ShardenduMishra22
     </a>
   </p>
 </div>
@@ -15,7 +15,7 @@
  <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardendumishra22/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mishrashardendu22.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ShardenduMishra22.is-a.dev)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ShardenduMishra22/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraahardendu22@gmail.com)
 
