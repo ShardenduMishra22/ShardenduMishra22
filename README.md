@@ -1,25 +1,25 @@
 <div align="center">
   <p>
-    <a href="https://github.com/ShardenduMishra22">
-      <img src="https://img.shields.io/badge/ Shardendu Mishra 22-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShardenduMishra22"/>
+    <a href="https://github.com/MishraShardendu22">
+      <img src="https://img.shields.io/badge/ Shardendu Mishra 22-181717?style=for-the-badge&logo=github&logoColor=white" alt="MishraShardendu22"/>
       <br />
-      Moved to https://github.com/ShardenduMishra22
+      Moved to https://github.com/MishraShardendu22
     </a>
   </p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShardenduMishra22/ShardenduMishra22/main/Gopher.gif" alt="Gopher Mishra" width="200"/>
+  <img src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/main/Gopher.gif" alt="Gopher Mishra" width="200"/>
 </div>
 
  <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardendumishra22/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ShardenduMishra22.is-a.dev)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ShardenduMishra22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MishraShardendu22/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://MishraShardendu22.is-a.dev)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MishraShardendu22/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraahardendu22@gmail.com)
 
-[![Shardendu Mishra profile views](https://u8views.com/api/v1/github/profiles/152168607/views/day-week-month-total-count.svg)](https://u8views.com/github/ShardenduMishra22)
+[![Shardendu Mishra profile views](https://u8views.com/api/v1/github/profiles/152168607/views/day-week-month-total-count.svg)](https://u8views.com/github/MishraShardendu22)
 
 </div>
 
@@ -78,7 +78,7 @@
 
 ## Engineering Analytics
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShardenduMishra22&theme=tokyo-night&hide_border=true&area=true" alt="Code Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MishraShardendu22&theme=tokyo-night&hide_border=true&area=true" alt="Code Contribution Graph" width="95%"/>
 </div>
 
 ## Engineering Projects & System Design
