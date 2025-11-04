@@ -1,1 +1,2 @@
-treasure-hunt = go to "https://github.com/VelocityRaptor22/thunt"
+treasure-hunt = go to "https://github.com/VelocityRaptor22/thunt.md
+"
